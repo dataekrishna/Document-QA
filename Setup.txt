@@ -1,0 +1,16 @@
+▶ Sign up to Gradient's Awesome LLM API's : https://auth.gradient.ai/register
+▶ Sign up for Astra vector database: https://astra.datastax.com/signup
+
+Step 1: Create a Database and connect it
+		When you setup the connection,
+			Generate the TOKEN and download the JSON file
+			Get a Secure Connect Bundle
+
+Step 2: Create a Gradient workspace and generate the access token
+
+
+Step 3: Upload the files, in google colabatory 
+		a. Database token.JSON
+		b. Secure Connect Bundle Zip file
+		c. Create documents folder and upload the documents you wanted to use!
+		
